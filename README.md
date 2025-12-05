@@ -49,7 +49,9 @@
 > ## Tools
 <br>
 <br>
-<p align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=godot,java,figma,vscode,github,git,apple" />
+</p>
 <br>
 <br>
 
