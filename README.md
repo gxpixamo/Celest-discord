@@ -49,7 +49,7 @@
 > ## Tools
 <br>
 <br>
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=godot,java,figma,vscode,github,git,apple" />
 </p>
 <br>
