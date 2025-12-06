@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Gxpixamo&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Celest%20Network%20Owner%2C%20Minecraft%20Server%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=You%20can%20not%20change%20the%20past.;But%20you%20can%20shape%20the%20future;Never%20give%20up%20on%20your%20goals.;Because%20failure%20is%20the%20pillar%20of%20success." alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=3687FF&center=true&vCenter=true&width=650&lines=You%20can%20not%20change%20the%20past.;But%20you%20can%20shape%20the%20future;Never%20give%20up%20on%20your%20goals.;Because%20failure%20is%20the%20pillar%20of%20success." alt="Typing introduction" />
 </p>
 
 <p align="center">
