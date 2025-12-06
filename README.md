@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img corner-radius="10%" src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+<img corner-radius="100px" src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - Hi! I am Gxpixamo. My real name is Aditya Majumder. I am a minecraft server developer as well as a game developer. I am currently owning the Celest Network. My main goal is to be a software developer in Microsoft. I hope so I can achieve my goal.
